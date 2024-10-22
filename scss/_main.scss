@@ -1,0 +1,9 @@
+.main{
+    &-section1{
+        background-image: url(../images/bgimg.png);
+        &-imgoil{
+            position: absolute;
+            z-index: -1;
+        }
+    }
+}
